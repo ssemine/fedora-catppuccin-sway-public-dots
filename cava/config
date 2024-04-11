@@ -1,0 +1,10 @@
+[general]
+bars = 12
+
+[output]
+data_format = ascii
+ascii_max_range = 9
+method = raw
+
+[smoothing]
+noise_reduction = 77
